@@ -1,3 +1,3 @@
-git is a version control system.
-git is a free software.
+git is version control system.
+git is free software.
 creating a new branch is quick.
