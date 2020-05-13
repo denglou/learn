@@ -1,3 +1,3 @@
 git is a version control system.
 git is free software.
-creating a new is quick.
+creating a new is quick and simple.
